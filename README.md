@@ -20,6 +20,12 @@
 
 As an enhanced fork of the original X-UI project, 3X-UI provides improved stability, broader protocol support, and additional features.
 
+## 前置准备
+
+```bash
+git clone https://github.com/xiananrain/ssl
+```
+
 ## Quick Start
 
 ```bash
