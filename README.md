@@ -26,6 +26,12 @@ As an enhanced fork of the original X-UI project, 3X-UI provides improved stabil
 git clone https://github.com/xiananrain/ssl
 ```
 
+## ssl地址
+
+```bash
+/root/ssl/xiananorg.crt
+``````
+
 ## Quick Start
 
 ```bash
